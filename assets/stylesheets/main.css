@@ -303,51 +303,51 @@ header {
 }
 
 .work-1 {
-  background-image: linear-gradient(34deg, #E86B7595, #E86B7595 50%, #E8172995 50%, #E8172995), url("../images/work-1.png");
+  background-image: linear-gradient(34deg, #E86B7595, #E86B7595 50%, #E8172995 50%, #E8172995), url("../images/work-1.PNG");
 }
 
 .work-1:hover {
-  background-image: url("../images/work-1.png");
+  background-image: url("../images/work-1.PNG");
 }
 
 .work-2 {
-  background-image: linear-gradient(34deg, #81F1AC95, #81F1AC95 50%, #123C2295 50%, #123C2295),url("../images/work-2.png");
+  background-image: linear-gradient(34deg, #81F1AC95, #81F1AC95 50%, #123C2295 50%, #123C2295),url("../images/work-2.PNG");
 }
 
 .work-2:hover {
-  background-image: url("../images/work-2.png");
+  background-image: url("../images/work-2.PNG");
 }
 
 .work-3 {
-  background-image: linear-gradient(34deg, #F181C695, #F181C695 50%, #B5368495 50%, #B5368495), url("../images/work-3.png");
+  background-image: linear-gradient(34deg, #F181C695, #F181C695 50%, #B5368495 50%, #B5368495), url("../images/work-3.PNG");
 }
 
 .work-3:hover {
-  background-image: url("../images/work-3.png");
+  background-image: url("../images/work-3.PNG");
 }
 
 .work-4 {
-  background-image: linear-gradient(34deg, #14ADFA95, #14ADFA95 50%, #073A5395 50%, #073A5395), url("../images/work-4.png");
+  background-image: linear-gradient(34deg, #14ADFA95, #14ADFA95 50%, #073A5395 50%, #073A5395), url("../images/work-4.PNG");
 }
 
 .work-4:hover {
-  background-image: url("../images/work-4.png");
+  background-image: url("../images/work-4.PNG");
 }
 
 .work-5 {
-  background-image: linear-gradient(34deg, #FA611495, #FA611495 50%, #A7400D95 50%, #A7400D95), url("../images/work-5.png");
+  background-image: linear-gradient(34deg, #FA611495, #FA611495 50%, #A7400D95 50%, #A7400D95), url("../images/work-5.PNG");
 }
 
 .work-5:hover {
-  background-image: url("../images/work-5.png");
+  background-image: url("../images/work-5.PNG");
 }
 
 .work-6 {
-  background-image: linear-gradient(34deg, #77191B95, #77191B95 50%, #78393A95 50%, #78393A95), url("../images/work-6.png");
+  background-image: linear-gradient(34deg, #77191B95, #77191B95 50%, #78393A95 50%, #78393A95), url("../images/work-6.PNG");
 }
 
 .work-6:hover {
-  background-image: url("../images/work-6.png");
+  background-image: url("../images/work-6.PNG");
 }
 
 /*=======================================*
